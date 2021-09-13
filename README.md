@@ -1,4 +1,4 @@
-# SQLAlchemy-Homework
+# SQLAlchemy
 This repository includes the files that were used to complete the SQLAlchemy homework
 
 The file called "climate_starter" includes the work, and answers for the following challenges from the homework:
