@@ -1,7 +1,7 @@
 # SQLAlchemy
-This repository includes the files that were used to complete the SQLAlchemy homework
+This repository includes the files that were used to complete the SQLAlchemy assignment
 
-The file called "climate_starter" includes the work, and answers for the following challenges from the homework:
+The file called "climate_starter" includes the work, and answers for the following challenges from the project:
 - Step 1 Climate Analysis and Exploration
 - Precipitation Analysis
 - Station Analysis
